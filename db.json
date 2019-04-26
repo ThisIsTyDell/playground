@@ -1,0 +1,29 @@
+{
+    "teamMembers": [
+        {
+            "teamMemberRole": "Product Specialist",
+            "teamMemberName": "ABC123",
+            "teamMemberId": "123456789abc"
+        },
+        {
+            "teamMemberRole": "Product TESTER",
+            "teamMemberName": "ABC123 Geddder",
+            "teamMemberId": "0MAE"
+        },
+        {
+            "teamMemberRole": "Product SMEE",
+            "teamMemberName": "ioubiub390",
+            "teamMemberId": "875627hjbwk"
+        },
+        {
+            "teamMemberRole": "p9iugdewv",
+            "teamMemberName": "test kid",
+            "teamMemberId": "12365498165ddd"
+        }
+    ],
+    "ownerRole": "Corporate ihbdswoijb",
+    "ownerName": "Test Guy",
+    "ownerId": "test id",
+    "accountName": "Test Company - TestCorp",
+    "accountId": "321KIHVB6514"
+}
